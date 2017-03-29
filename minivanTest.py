@@ -62,10 +62,10 @@ def test_module():
         if row[9] in ['P', 'N', 'D', '1', '2', '3', 'R']:
             print("Reading Record", str(index)+":")
             index += 1
-            check_code(t1mod1.get_code(row))
+            check_code(task1_mod1.get_code(row))
         else:
             print("Reading Record X:")
-            check_code(t1mod1.get_code(row))
+            check_code(task1_mod1.get_code(row))
         print()
 
 
