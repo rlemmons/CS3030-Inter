@@ -2,7 +2,7 @@
 import sys
 import requests
 import csv
-import t1mod1
+import task1_mod1
 
 url = 'http://icarus.cs.weber.edu/~hvalle/cs3030/data/minivanTest.csv'
 
