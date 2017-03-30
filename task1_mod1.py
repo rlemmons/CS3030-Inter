@@ -59,13 +59,23 @@ def print_states(codeList):
             pass
         i += 1
 
+
 def left_open(codeList):
     """
     Return:
         True    - left door opens
         False   - left door locked
     """
-    return True
+    if codeList[4] == "1" and codeList[9] == "P":
+        if codeList[1] == "1" or codeList[6] == "1":
+            return True
+        elif codeList[5] == "1" and codeList[3] == "0":
+            return True
+        else:
+            return False
+    else:
+        return False
+
 
 def right_open(codeList):
     """
@@ -73,7 +83,16 @@ def right_open(codeList):
         True    - right door opens
         False   - left door locked
     """
-    return True
+    if codeList[4] == "1" and codeList[9] == "P":
+        if codeList[2] == "1" or codeList[8] == "1":
+            return True
+        elif codeList[7] == "1" and codeList[3] == "0":
+            return True
+        else:
+            return False
+    else:
+        return False
+
 
 def valid_gear(codeList):
     """
