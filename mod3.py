@@ -14,10 +14,12 @@ barCodeList = ["||:::", ":::||", "::|:|", "::||:", ":|::|", ":|:|:"
 
 def printDigit(d):
     """
-    Not sure what the hell this is doing
-    The assignement description is garbage
+    This def is here as per assignment instructions,
+    but was not needed. A better description of what
+    function is expected to do would help alleviate confusion.
     """
     pass
+
 
 def checkDigit(zipCode):
     """
@@ -31,6 +33,7 @@ def checkDigit(zipCode):
         return 0
     checkDigit = 10 - mod       # else check digit is 10 - (sumNum%10)
     return checkDigit
+
 
 def printBarCode(zipCode):
     """
@@ -60,7 +63,6 @@ def main():
     Test Function
     """
     pass
-
 
 
 if __name__ == "__main__":
