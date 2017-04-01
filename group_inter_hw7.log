@@ -1,0 +1,102 @@
+commit afc1dbe2f0d84a2e9742640bb7468b8a1c35e234
+Author: David Mariluch <davidmariluch@mail.weber.edu>
+Date:   Sat Apr 1 20:02:17 2017 +0000
+
+    removed previous files with incorrect names
+
+commit 0b50251f0af587aa5050dd7d3e8d49c289f01996
+Author: David Mariluch <davidmariluch@mail.weber.edu>
+Date:   Sat Apr 1 20:01:35 2017 +0000
+
+    pycache update from run
+
+commit 9d8742b92e589a0f8b4623e692f6771bcaa8af50
+Author: David Mariluch <davidmariluch@mail.weber.edu>
+Date:   Sat Apr 1 20:00:01 2017 +0000
+
+    updated file names, made some changes to mod3 for making bar code
+
+commit 1106935c13dc93c017ac3628a0835135ae6968fa
+Author: Rob Lemmons <robertlemmons@mail.weber.edu>
+Date:   Fri Mar 31 16:33:31 2017 -0600
+
+    Final bartest, cleaned and commented
+
+commit 9e38eeec3acfb5b9bc4e95d4241a3cfe28c9dbc3
+Author: David Mariluch <davidmariluch@mail.weber.edu>
+Date:   Fri Mar 31 07:44:15 2017 +0000
+
+    updated barTest template, finished mod3.py
+
+commit ad66afddc04ddd9d691f69c2ff07c4761fcc3e32
+Author: David Mariluch <davidmariluch@mail.weber.edu>
+Date:   Thu Mar 30 03:11:42 2017 +0000
+
+    made barTest.py executable
+
+commit fb7f8335813b7fe03139231b7b1b53c2df27afac
+Author: Rob Lemmons <robertlemmons@mail.weber.edu>
+Date:   Wed Mar 29 21:07:27 2017 -0600
+
+    init commit
+
+commit 6ad8f0f224ea767fa7a05c639ac686a05ce31e9e
+Author: David Mariluch <davidmariluch@mail.weber.edu>
+Date:   Thu Mar 30 03:06:33 2017 +0000
+
+    added template for barTest.py
+
+commit 49b2dc005f9d99661a443b35d736b6f43709be19
+Author: Rob Lemmons <robertlemmons@mail.weber.edu>
+Date:   Wed Mar 29 20:40:23 2017 -0600
+
+    finished task1mod1
+
+commit 922306cc79b7e6416939dd11389d12cc250b1f1c
+Author: David Mariluch <davidmariluch@mail.weber.edu>
+Date:   Wed Mar 29 08:43:15 2017 +0000
+
+    updated my call to task1_mod1 function call
+
+commit aa8623093a346ce5141a2ba9616861b91f129b43
+Author: David Mariluch <davidmariluch@mail.weber.edu>
+Date:   Wed Mar 29 08:37:26 2017 +0000
+
+    deleted t1mod1.py
+
+commit fb2101131604d96e04931a8d05366db94faf563c
+Author: David Mariluch <davidmariluch@mail.weber.edu>
+Date:   Wed Mar 29 08:36:57 2017 +0000
+
+    changed name of t1mod1.py, updated referrences in minvanTest.py
+
+commit b7545b99d9c7cdadfbf9ebbc8d200caf6e536874
+Merge: 1cdb7a3 2f59e9f
+Author: David Mariluch <davidmariluch@mail.weber.edu>
+Date:   Wed Mar 29 08:33:11 2017 +0000
+
+    Merge branch 'master' of https://github.com/rlemmons/CS3030-Inter
+
+commit 1cdb7a39c1aa897409ff8ed10c1be070a9f81a2b
+Author: David Mariluch <davidmariluch@mail.weber.edu>
+Date:   Wed Mar 29 08:32:29 2017 +0000
+
+    added an __init__.py to import t1mod1.py, finished minivanTest.py, uploaded a template for t1mod1.py
+
+commit 2f59e9f5bc3d120e5595b9c0073f0f8df66e3e50
+Author: Rob Lemmons <robertlemmons@mail.weber.edu>
+Date:   Tue Mar 28 13:32:19 2017 -0600
+
+    init
+
+commit 3783718ad4c3956fc043f98659b9e45a581531e5
+Author: rlemmons <robertlemmons@mail.weber.edu>
+Date:   Tue Mar 28 13:17:09 2017 -0600
+
+    Update README.md
+
+commit f1587d2b8ccea9ad4d7d8fd913562419ae5fbc02
+Author: rlemmons <robertlemmons@mail.weber.edu>
+Date:   Tue Mar 28 13:01:41 2017 -0600
+
+    Initial commit
